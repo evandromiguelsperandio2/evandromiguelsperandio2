@@ -48,7 +48,7 @@ Acredito que posso agregar à equipe aplicando os conhecimentos adquiridos ao lo
 
 ## 📬 Entre em contato
 
-- 📧 **Email:** evandro.sperandio@example.com
+- 📧 **Email:** evandromiguelmartins@gmail.com
 - 🌐 **LinkedIn:** [linkedin.com/in/evandrosperandio](www.linkedin.com/in/evandro-miguel-martins-sperandio-9121142b9)
 
 ---
