@@ -1,6 +1,6 @@
 # 👨‍💻 Evandro Miguel Martins Sperandio
 
-Olá! Sou **Evandro Miguel Martins Sperandio**, um estudante apaixonado por **Tecnologia** e **Análise de Dados**. Atualmente, estou cursando **Tecnologia em Análise e Ciência de Dados** e me especializando em **Desenvolvimento de Sistemas** com foco em **front-end** e **gestão de projetos**.
+Olá! Sou **Evandro Miguel Martins Sperandio**, um estudante apaixonado por **Tecnologia** e **Análise de Dados**. Atualmente, estou cursando **Tecnologia em Análise e Ciência de Dados** e me especializando em **Desenvolvimento de Sistemas**
 
 ## 🚀 Sobre mim
 
