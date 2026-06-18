@@ -39,8 +39,6 @@ Aqui estão algumas das minhas principais habilidades e ferramentas que utilizo:
 ## 🌱 O que estou aprendendo
 
 - 🤖 **Machine Learning** e **Data Science**
-- 🌍 **Desenvolvimento Full Stack**
-- 📈 **Análise de Dados com Python** (Pandas, NumPy, Matplotlib)
 
 ## 📈 Como posso contribuir para a empresa
 
